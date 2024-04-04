@@ -11,13 +11,11 @@
 ## Related Tickets & Documents
 
 - Related Issue #
-- Closes #
 
 ## Added/updated tests?
 
 - [ ] Yes
-- [ ] No, and this is why: _please replace this line with details on why tests
-      have not been included_
+- [ ] No, and this is why:
 - [ ] I need help with writing tests
 
-## [optional] Are there any post deployment tasks we need to perform?
+## Preview
