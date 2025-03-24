@@ -1,21 +1,25 @@
-## What type of PR is this? (check all applicable)
+## Tipo de PR 📝
 
-- [ ] Refactor
-- [ ] Feature
-- [ ] Bug Fix
-- [ ] Optimization
-- [ ] Documentation Update
+- [ ] **Refatoração** 🔧
+- [ ] **Nova funcionalidade** ✨
+- [ ] **Correção de bug** 🐛
+- [ ] **Otimização** ⚡
+- [ ] **Atualização de documentação** 📚
 
-## Description
+## Descrição 🧐
 
-## Related Tickets & Documents
+*Resuma o que foi feito e o impacto da mudança.*
 
-- Related Issue #
+## Issue Relacionada 🔗
 
-## Added/updated tests?
+- Issue # [Link da Issue no ClickUp]
 
-- [ ] Yes
-- [ ] No, and this is why:
-- [ ] I need help with writing tests
+## Testes 🧪
 
-## Preview
+- [ ] Testes criados/atualizados ✅
+- [ ] Não foi necessário ❌
+- [ ] Fiquei com preguiça ⚠️
+
+## Preview 🛠️
+
+*Foto do resultado*
