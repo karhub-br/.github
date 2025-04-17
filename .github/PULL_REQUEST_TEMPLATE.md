@@ -12,7 +12,7 @@
 
 ## Issue Relacionada 🔗
 
-- Issue # [Link da Issue no ClickUp]
+- Issue # [Link ClickUp](Link da Issue no ClickUp)
 
 ## Testes 🧪
 
