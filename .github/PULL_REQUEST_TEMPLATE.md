@@ -1,25 +1,34 @@
 ## Tipo de PR 📝
 
-- [ ] **Refatoração** 🔧
 - [ ] **Nova funcionalidade** ✨
 - [ ] **Correção de bug** 🐛
-- [ ] **Otimização** ⚡
+- [ ] **Refatoração** 🔧
+- [ ] **Melhoria / Otimização** ⚡
 - [ ] **Atualização de documentação** 📚
 
 ## Descrição 🧐
 
-*Resuma o que foi feito e o impacto da mudança.*
+**O que foi feito:**
+
+*(Descreva de forma clara e objetiva o que foi desenvolvido ou alterado)*
+
+**Motivação / Impacto:**
+
+*(Explique o problema que estava sendo resolvido e o benefício trazido para o produto ou time)*
 
 ## Issue Relacionada 🔗
 
-- Issue # [Link ClickUp](Link da Issue no ClickUp)
+- **Flow:** [Título da tarefa](link-da-issue-no-flow)
 
-## Testes 🧪
+## Preview / Evidências 🖼️
 
-- [ ] Testes criados/atualizados ✅
-- [ ] Não foi necessário ❌
-- [ ] Fiquei com preguiça ⚠️
+*(Insira aqui prints, GIFs ou vídeos do resultado)*
 
-## Preview 🛠️
+---
 
-*Foto do resultado*
+## Checklist ✅
+
+- [ ] Código segue as convenções do time
+- [ ] Testes unitários / integração criados ou atualizados
+- [ ] Testes manuais realizados
+- [ ] Self-review realizado
